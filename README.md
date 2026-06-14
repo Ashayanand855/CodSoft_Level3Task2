@@ -145,7 +145,7 @@ The database contains **3 tables** defined in `backend/prisma/schema.prisma`:
 ## 📁 Complete Project File Structure
 
 ```
-Level3-task2/
+CodSoft_Level3Task2/
 │
 ├── package.json                          # Root: runs frontend + backend concurrently
 │
@@ -206,7 +206,7 @@ Level3-task2/
 
 ### **Step 1 — Clone or navigate to the project directory**
 ```bash
-cd Level3-task2
+cd CodSoft_Level3Task2
 ```
 
 ### **Step 2 — Install ALL dependencies (root + backend + frontend)**
